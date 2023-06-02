@@ -1,1 +1,1 @@
-print("hello binaya")
+print("hello binayas")
